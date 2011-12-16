@@ -1,0 +1,28 @@
+h1. PyroFormat
+
+PyroFormat is your trusty Swiss Army Knife for formatting text, dates, numbers, and images in PyroCMS.
+
+Right now it only does a few basic things (uppercase, number format, etc.) but we are adding new things soon.
+
+Some ideas for the future. Many of these come directly from CodeIgniter, but it's nice to have access to them in tags.
+
+* markdown
+* textile
+* ascii_to_entities
+* entities_to_ascii
+* convert_accented_characters
+* highlight_phrase
+* word_wrap
+* ellipsize
+* byte_format
+* singular
+* plural
+* camelize
+* underscore
+* humanize
+* url_title
+* urlencode
+* strip_tags
+* auto_img - turn images into img
+ 
+Documentation coming soon.
